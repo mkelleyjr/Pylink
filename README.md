@@ -1,6 +1,6 @@
 # Pylink
 Pylink contains small scripts to pull all links from a given webpage. 
-
+***Requires BeautifulSoup4 on Mac OSX
 
 
 Links.py
